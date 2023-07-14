@@ -1,0 +1,25 @@
+{
+    "name": "CmdVox",
+    "version": "0.0.1",
+    "description": "CmdVox is a voice command recognition tool that using SimpleVox.",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/MechaUma/CmdVox.git"
+    },
+    "authors": 
+    [
+        {
+            "name": "MechaUma",
+            "url": "https://github.com/MechaUma"
+        }
+    ],
+    "dependencies":
+    {
+        "MechaUma/CmdVox": "https://github.com/MechaUma/SimpleVox",
+        "bblanchon/ArduinoJson": "^6.21.2"
+    },
+    "license": "MIT",
+    "frameworks": "*",
+    "platform": "*"
+}
